@@ -1,0 +1,11 @@
+Competitive Risk Assessment - 2025
+
+Risks to AlphaCRM:
+- May lose enterprise deals due to limited compliance certifications.
+- Advanced workflow branching gap versus enterprise platforms.
+
+Risks to BetaSales:
+- Perceived implementation complexity.
+- Longer onboarding timelines.
+
+No financial risk projections were provided.

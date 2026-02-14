@@ -1,0 +1,17 @@
+Customer Call Notes - Q3 Summary - 2025-09-28
+
+Common objections raised by prospects:
+
+1. Onboarding concerns:
+   - Some mid-market SaaS teams worry that enterprise-focused tools may take too long to implement.
+   - Several prospects explicitly mentioned "implementation fatigue" from previous CRM migrations.
+
+2. Customization complexity:
+   - Enterprise sales teams appreciate deep workflow customization.
+   - However, smaller teams feel overwhelmed by complex configuration screens.
+
+3. Support expectations:
+   - Fast response times are considered critical.
+   - 24/7 support is perceived as a strong enterprise differentiator.
+
+No quantitative churn data was discussed in these notes.

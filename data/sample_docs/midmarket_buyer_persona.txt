@@ -1,0 +1,13 @@
+Mid-Market Buyer Persona Summary - 2025
+
+Typical Profile:
+- VP Sales at B2B SaaS company
+- Concerned with fast deployment
+- Limited internal IT resources
+
+Primary Evaluation Criteria:
+- Setup speed
+- Ease of use
+- Transparent tiering
+
+Security certifications are considered secondary unless required by enterprise customers.

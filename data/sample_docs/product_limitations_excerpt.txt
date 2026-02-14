@@ -1,0 +1,11 @@
+Product Limitations Excerpt - Internal Review - 2025-09-10
+
+AlphaCRM:
+- Advanced workflow branching is limited compared to enterprise tools.
+- No built-in multi-region data residency controls mentioned.
+
+BetaSales:
+- Configuration complexity may require specialist administrators.
+- UI has been described as dense by some mid-market users.
+
+No pricing discounts were documented.

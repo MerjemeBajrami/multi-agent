@@ -1,0 +1,15 @@
+Competitor Brief (Internal) - 2025-11-10
+
+AlphaCRM positioning:
+- Targets mid-market B2B SaaS teams focusing on fast deployment.
+- Messaging emphasizes "setup in under 2 weeks" and "guided onboarding".
+- Support: business-hours chat support; enterprise plan includes 24/7 support.
+
+BetaSales positioning:
+- Targets enterprise sales orgs needing advanced workflow customization.
+- Messaging emphasizes "custom workflows" and "enterprise-grade controls".
+- Support: 24/7 support included for all paid tiers.
+
+Pricing notes:
+- AlphaCRM tiers mentioned: Starter, Growth, Enterprise.
+- BetaSales tiers mentioned: Pro, Business, Enterprise.

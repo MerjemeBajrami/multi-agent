@@ -1,0 +1,17 @@
+Feature Matrix Comparison - 2025 Snapshot
+
+Workflow Customization:
+- AlphaCRM: Basic branching logic.
+- BetaSales: Advanced multi-layer workflow automation.
+
+Support:
+- AlphaCRM: Business-hours chat; 24/7 in Enterprise tier.
+- BetaSales: 24/7 across all paid tiers.
+
+Compliance:
+- BetaSales: SOC 2 Type II; GDPR readiness.
+- AlphaCRM: GDPR readiness only.
+
+Onboarding:
+- AlphaCRM: Under 2 weeks (marketing claim).
+- BetaSales: No public timeline commitment.

@@ -1,0 +1,11 @@
+Product Roadmap Summary - 2025-10-12
+
+AlphaCRM:
+- Planning to introduce advanced workflow branching in Q2 next year.
+- Considering expansion of enterprise compliance documentation.
+
+BetaSales:
+- Exploring onboarding UX simplification initiatives.
+- No confirmed timeline provided.
+
+Future plans are subject to change.

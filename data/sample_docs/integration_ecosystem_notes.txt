@@ -1,0 +1,12 @@
+Integration Ecosystem Notes - 2025
+
+AlphaCRM:
+- Native integrations with major marketing automation tools.
+- API available for custom integrations.
+
+BetaSales:
+- Enterprise-grade integration framework.
+- Supports complex ERP system integrations.
+- Provides dedicated integration engineering support.
+
+No total integration counts were published.

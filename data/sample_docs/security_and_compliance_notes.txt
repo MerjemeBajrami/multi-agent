@@ -1,0 +1,11 @@
+Security & Compliance Notes - 2025-06-15
+
+BetaSales:
+- Advertises SOC 2 Type II compliance.
+- Mentions GDPR readiness.
+
+AlphaCRM:
+- Mentions GDPR readiness.
+- Does not explicitly reference SOC 2 in available materials.
+
+No ISO certifications were mentioned in reviewed documents.

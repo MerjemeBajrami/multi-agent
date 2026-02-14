@@ -1,0 +1,16 @@
+Enterprise Case Study - GlobalBank - 2025
+
+Customer Profile:
+- Multinational financial services organization
+- 3,200 sales users across 14 regions
+
+Implementation Summary:
+- Selected BetaSales due to workflow customization depth.
+- Implementation timeline: 4 months including compliance reviews.
+- Required dedicated technical account manager.
+
+Outcome:
+- Reduced manual approval routing time by 27%.
+- Improved cross-region workflow consistency.
+
+No mention of onboarding under 2 weeks.

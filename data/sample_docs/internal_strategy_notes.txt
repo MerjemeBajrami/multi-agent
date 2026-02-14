@@ -1,0 +1,15 @@
+Internal Strategy Notes - Competitive Positioning Workshop - 2025-10-05
+
+Observations:
+
+- AlphaCRM's emphasis on fast deployment resonates with mid-market SaaS.
+- BetaSales appears stronger in highly regulated enterprise environments.
+- Messaging clarity seems stronger in AlphaCRM’s onboarding narrative.
+
+Risks:
+- If BetaSales simplifies onboarding UX, it could neutralize AlphaCRM’s deployment advantage.
+- If AlphaCRM does not expand enterprise support features, it may lose large deals.
+
+Opportunities:
+- Develop vertical-specific onboarding kits.
+- Create ROI calculator focused on deployment time savings.

@@ -1,0 +1,12 @@
+Sales Training Notes - Qualifying Questions - 2025-07-01
+
+If prospect values fast onboarding:
+- Ask about timeline constraints.
+- Ask whether previous CRM migrations exceeded 30 days.
+
+If prospect values workflow customization:
+- Ask about approval flows.
+- Ask about multi-region complexity.
+
+If prospect emphasizes compliance:
+- Ask about regulatory frameworks (e.g., SOC 2, GDPR).

@@ -1,0 +1,6 @@
+Client Email Style Guide - 2025-08-02
+
+- Keep emails under 180 words when possible.
+- Use short paragraphs and bullets.
+- Avoid over-claiming. If evidence is missing, say "Not found in sources".
+- Always include a clear call-to-action with 2 proposed times.

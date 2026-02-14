@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t1_risks",
+    "task": "Summarize the top 5 risks mentioned across these docs and propose mitigations."
+  },
+  {
+    "id": "t2_client_email",
+    "task": "Create a client update email from the latest weekly report doc."
+  },
+  {
+    "id": "t3_compare",
+    "task": "Compare two approaches described in docs and recommend one with justification."
+  },
+  {
+    "id": "t4_deadlines",
+    "task": "Extract all deadlines + owners from docs and format them into an action list."
+  },
+  {
+    "id": "t5_confluence",
+    "task": "Draft an internal Confluence-style page from the markdown notes in the docs."
+  }
+]

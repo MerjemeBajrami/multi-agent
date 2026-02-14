@@ -1,0 +1,9 @@
+Support SLA Summary - 2025-07-30
+
+AlphaCRM:
+- Business-hours chat support for Starter and Growth tiers.
+- 24/7 support included in Enterprise tier.
+
+BetaSales:
+- 24/7 support included in all paid tiers.
+- Dedicated escalation manager available for Enterprise customers.

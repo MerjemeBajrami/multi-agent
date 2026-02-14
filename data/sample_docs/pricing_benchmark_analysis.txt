@@ -1,0 +1,13 @@
+Pricing Benchmark Analysis - 2025
+
+AlphaCRM:
+- Starter: Entry-level for small teams.
+- Growth: Mid-tier scaling teams.
+- Enterprise: Advanced support and SLA.
+
+BetaSales:
+- Pro: Standard workflow capabilities.
+- Business: Expanded automation.
+- Enterprise: Dedicated support resources.
+
+Exact pricing numbers were not documented.

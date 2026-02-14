@@ -1,0 +1,56 @@
+# =========================
+# Secrets & Environment
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Python Artifacts
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Dependency / Build Artifacts
+# =========================
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# =========================
+# Chroma Vector Store (local, generated)
+# =========================
+data/chroma/
+chroma/
+data/**/*.sqlite*
+data/**/*.parquet
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# Logs & Temporary Files
+# =========================
+*.log
+*.tmp
+*.cache
+
+# =========================
+# OS / Editor Noise
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

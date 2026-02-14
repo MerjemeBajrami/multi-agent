@@ -1,0 +1,8 @@
+Churn Risk Analysis - Internal Summary - 2025
+
+Key Observations:
+- Implementation delays correlate with higher churn risk.
+- Configuration complexity increases onboarding time.
+
+No churn rate percentages were documented.
+No competitor-specific churn metrics were included.
